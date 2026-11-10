@@ -8,6 +8,8 @@ public class PruebaGitHub {
 
 	public static void saludar(String nombre) {
 		System.out.println("Hola, " + nombre);
+		
+		
 	}
 
 }
